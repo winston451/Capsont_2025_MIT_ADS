@@ -64,7 +64,7 @@ This project develops a machine learning model to predict loan defaults using th
 ## Business Impact
 - Enables precise identification of high‑risk loan applicants
 - Reduces loan defaults by an estimated 30–40%
-- Suppo
+  
 
 
 
